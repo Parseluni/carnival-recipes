@@ -3,7 +3,15 @@ This repository holds all of the recipe scraps for the food Ada staff was going 
 
 ## Recipe scraps for each group
 Below are links to the scrap files for each group. All of the files can be found in your local copy of the repository under the `scraps/` directory.
+Servings: 8
 
+1 cup Whole Milk
+1-1/2 cup Ketchup
+Tabasco To Taste
+
+1. Preheat oven to 350 degrees.
+3. Place the ground beef, milk-soaked bread, Parmesan, seasoned salt, salt, black pepper, and parsley in a large mixing bowl. Pour in beaten eggs.
+9. Pour 1/3 of the mixture over the top of the bacon. Spread with a spoon.
 | Aardvark    | Tarsier     | Gecko      | Sloth       | Lionfish    | Pangolin    | Rhino       | Curassow    |
 |:------------|:------------|:------------|:------------|:------------|:------------|:------------|:------------|
 | [Recipe](recipes/aardvark.txt) | [Recipe](recipes/tarsier.txt) | [Recipe](recipes/gecko.txt) | [Recipe](recipes/sloth.txt) | [Recipe](recipes/lionfish.txt) | [Recipe](recipes/pangolin.txt) | 
