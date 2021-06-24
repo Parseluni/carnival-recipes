@@ -42,7 +42,7 @@ Once everyone in your group has completed the baseline setup instructions above 
 
 Because each member of your group now has a different version of the recipe file in their local repository, building the complete recipe by merging those versions together will result in merge conflicts. To handle those merge conflicts sensibly your group should use the following process to construct the final recipe file:
 
-1. Each person on a team will create a branch with `git checkout -b BRANCH-NAME`, selecting their own branch name based off the recipe scrap they have, and commit the changes they have made to the recipe.
+1. Each person on a team will create a branch with `git switch -c BRANCH-NAME`, selecting their own branch name based off the recipe scrap they have, and commit the changes they have made to the recipe.
 1. Each team member will push their changes up to github with `git push origin BRANCH-NAME`.
 1. Each team member will open a **pull request** trying to merge their branch on github into `master`.  **Be very careful to make the PR against your forked repository and NOT AdaGold.**
     - To make the PR against your team members forked respository and not AdaGold, we will need to change the base repository
